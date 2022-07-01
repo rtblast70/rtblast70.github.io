@@ -17,7 +17,7 @@ video {
 }
 
 .section-container.homepage {
-    background: url('../../public/images/bench.JPEG') center center/cover no-repeat;
+    background: url('../../public/images/bench.jpg') center center/cover no-repeat;
     height: 100vh;
 }
 

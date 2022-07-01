@@ -10,7 +10,6 @@ const displayVideo = (media, src) => {
 }
 
 function Section(props) {
-  console.log(props.type);
   return (
     <div className={`section-container ${props.type} ${props.media}`} >
       {displayVideo(props.media, props.src)}
