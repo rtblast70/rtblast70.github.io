@@ -5,7 +5,7 @@ import './Section.css';
 
 const displayVideo = (media, src) => {
   if (media === 'video') {
-    return <video src='/videos/tahoe.mp4' autoPlay loop muted />
+    return <video src='/videos/cars.mp4' autoPlay loop muted />
   }
 }
 
