@@ -1,11 +1,14 @@
 import React from 'react';
 import Section from '../Section';
 import PhotoGallery from '../PhotoGallery';
+import Video from '../../videos/cars.mp4';
+import './Gallery.css';
 
 function Gallery() {
   return (
     <>
-        <Section media="video" type="gallery" title="Gallery" subtitle="Some stuff from my camera roll"/>
+        <video src={Video} autoPlay loop muted />
+        <Section media="video" src="./videos/cars.mp4" type="gallery" title="Gallery" subtitle="Some stuff from my camera roll"/>
         <PhotoGallery />
     </>
   )

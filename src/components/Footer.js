@@ -57,16 +57,16 @@ function Footer () {
                 <small className='website-rights'>ryantsai copyright!</small>
                 <div className='social-icons'>
                     <Link className='social-icon-link facebook' to='/' target='_blank' aria-label='Facebook'>
-                        <i class="fa-brands fa-facebook">   </i>
+                        <i className="fa-brands fa-facebook">   </i>
                     </Link>
                     <Link className='social-icon-link instagram' to='https://www.instagram.com/ryantsaii/' target='_blank' aria-label='Instagram'>
-                        <i class="fa-brands fa-instagram" />
+                        <i className="fa-brands fa-instagram" />
                     </Link>
                     <Link className='social-icon-link linkedin' to='/' target='_blank' aria-label='LinkedIn'>
-                        <i class="fa-brands fa-linkedin" />
+                        <i className="fa-brands fa-linkedin" />
                     </Link>
                     <Link className='social-icon-link github' to='/' target='_blank' aria-label='Github'>
-                        <i class="fa-brands fa-github" />
+                        <i className="fa-brands fa-github" />
                     </Link>
                 </div>
             </div>
