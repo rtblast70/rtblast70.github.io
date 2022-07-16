@@ -1,0 +1,39 @@
+{
+    "projects" : [
+        {
+            "title": "Code Workout",
+            "subtitle": "...",
+            "tools": "Ruby on Rails, Docker",
+            "description": "...",
+            "url": "https://codeworkout.cs.vt.edu/"
+        },
+        {
+            "title": "ESPN Scraper",
+            "subtitle": "...",
+            "tools": "React.js, Cheerio, Axios",
+            "description": "...",
+            "url": "https://shport.app"
+        },
+        {
+            "title": "Theta Tau SLO Website",
+            "subtitle": "...",
+            "tools": "React.js",
+            "description": "...",
+            "url": "https://www.thetatauslo.com/"
+        },
+        {
+            "title": "File Compression",
+            "subtitle": "...",
+            "tools": "Python",
+            "description": "...",
+            "url": ""
+        },
+        {
+            "title": "Machine Learning Report",
+            "subtitle": "...",
+            "tools": "Report",
+            "description": "...",
+            "url": ""
+        }
+    ]
+}

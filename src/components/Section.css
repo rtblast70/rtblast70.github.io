@@ -15,6 +15,7 @@
 }
 
 .section-container.about {
+    background: url('../../public/images/fremont.jpg') center center/cover no-repeat;
     height: 60vh;
 }
 
@@ -28,7 +29,7 @@
 }
 
 .section-container.img {
-    
+    position: sticky;
 }
 
 .section-container > h1 {

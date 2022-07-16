@@ -8,7 +8,7 @@ function Gallery() {
   return (
     <>
         <video src={Video} autoPlay loop muted />
-        <Section media="video" src="./videos/cars.mp4" type="gallery" title="Gallery" subtitle="Some stuff from my camera roll"/>
+        <Section type="gallery" title="Gallery" subtitle="Some stuff from my camera roll"/>
         <PhotoGallery />
     </>
   )

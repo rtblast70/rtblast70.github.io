@@ -29,7 +29,6 @@ import mom from '../GalleryImages/mom.jpg';
 const Gallery = () => {
 
     let data = [
-        {src: stairs, caption: "@ the Getty in LA"},
         {src: disney_1, caption: "Found some cool headwear"}, 
         {src: dole, caption: "The Dole Whip @ Disneyland makes my top 3 icecream spots for sure"},
         {src: sb, caption: "The boys"},
