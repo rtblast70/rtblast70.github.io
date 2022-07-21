@@ -7,6 +7,7 @@ function Section(props) {
     <div className={`section-container ${props.type}`} >
         <h1>{props.title}</h1>
         <p>{props.subtitle}</p>
+        
         {/*
         <div className='section-btns'>
             <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>

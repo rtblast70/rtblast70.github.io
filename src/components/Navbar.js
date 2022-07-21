@@ -29,7 +29,7 @@ function Navbar() {
         <nav className="navbar">
                 <div className="navbar-container">
                     <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-                        Ryan Tsai
+                        <h2>Ryan Tsai</h2>
                     </Link>
                     <div className='menu-icon' onClick={handleClick} key='unique'>
                       <i className={click ? 'fa-solid fa-xmark' : 'fa-solid fa-bars'} />
